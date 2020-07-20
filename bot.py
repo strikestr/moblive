@@ -105,7 +105,6 @@ async def __map(ctx):
 
 
 
+  
 
-client.run('NzMxNTIwNDE2MzA0MzMyOTQz.Xw_96A.xhrw_pTRhD-Jho_WHAL3tr6zrDU')    
-
-# token = os.environ.get['BOT_TOKEN']
+ token = os.environ.get['BOT_TOKEN']
